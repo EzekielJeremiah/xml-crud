@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Date="2023-01-15T20:40:01.420">
+<Item>
+<ean>4010001130168</ean>
+<code>prod_symbol</code>
+<name>Name products</name>
+<stock>100</stock>
+<delivery_date>2023-02-17</delivery_date>
+<DELIVERY_CONFIRMED>TAK</DELIVERY_CONFIRMED>
+<withdrawn>0</withdrawn>
+</Item>
+<Item>
+<ean>3510001130168</ean>
+<code>prod_symbol_2</code>
+<name>Name product</name>
+<stock>22</stock>
+<delivery_date>2023-02-17</delivery_date>
+<DELIVERY_CONFIRMED>TAK</DELIVERY_CONFIRMED>
+<withdrawn>0</withdrawn>
+</Item>
+<Item>
+<ean>5010001130168</ean>
+<code>prod_symbol</code>
+<name>Name product</name>
+<stock>33</stock>
+<delivery_date>2023-02-17</delivery_date>
+<DELIVERY_CONFIRMED>TAK</DELIVERY_CONFIRMED>
+<withdrawn>0</withdrawn>
+</Item>
+</Items>
