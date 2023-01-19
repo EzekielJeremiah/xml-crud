@@ -19,7 +19,7 @@ echo 'Number of products: '.count($Items);
 echo '<br>List Product Information';
 ?>
 <br>
-<a href="add.php">Add new product</a>
+<a href="add.php">Add new product</a> #The add functionality, also known as Create in "CRUD" has not been implemented yet.
 <br>
 <table cellpadding="2" cellspacing="2" border="1">
 	<tr>
