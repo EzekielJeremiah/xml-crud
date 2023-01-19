@@ -1,6 +1,6 @@
 <?php
 if(isset($_GET['action'])) {
-	$Items = simplexml_load_file('product.xml');
+	$Items = simplexml_load_file('product.xml'); #you could use any url of your choice, given it is a url leading to an xml files
 	$id = $_GET['id'];
 	$index = 0;
 	$i = 0;
